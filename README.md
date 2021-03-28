@@ -1,0 +1,2 @@
+# Fast Discord Nitro Generator
+ 
